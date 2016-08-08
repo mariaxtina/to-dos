@@ -1,5 +1,5 @@
 {
-  "name": "react-simple-boilerplate",
+  "name": "to-dos",
   "version": "1.0.0",
   "description": "Simple and lightweight Boilerplate for ReactJS projects",
   "scripts": {
@@ -10,15 +10,6 @@
     "type": "git",
     "url": "https://github.com/noahlotzer/react-simple-boilerplate.git"
   },
-  "keywords": [
-    "react",
-    "reactjs",
-    "boilerplate",
-    "reload",
-    "live",
-    "edit",
-    "webpack"
-  ],
   "author": "Noah-Jerome Lotzer <n.lotzer@neusta.de>",
   "license": "MIT",
   "bugs": {
